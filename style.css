@@ -30,7 +30,7 @@ body {
     margin: 2px;
 }
 
-.answer-container {
+#answer-container {
     height: 65%;
     width: 80%;
     background-color: purple;
